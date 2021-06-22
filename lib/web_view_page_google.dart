@@ -1,11 +1,10 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:get/get.dart';
 import 'package:sns_test2/src/controller/loginController.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
-class WEbViewPage extends StatelessWidget {
+class WebViewPageGoogle extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     int size = Random().nextInt(800000).toInt();
