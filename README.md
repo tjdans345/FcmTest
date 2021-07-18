@@ -1,6 +1,6 @@
 # sns_test2
 
-A new Flutter application.
++ LocalNotification 연동 
 
 ## Getting Started
 
